@@ -2,6 +2,11 @@
 
 <p align="center"> <img src="uber_pickups.jpg" width="250"> </p>
 
+
+## Video presentation
+
+[Uber - Video presentation](https://share.vidyard.com/watch/hb2kUTCm27EvdrnkZr68Qu?second=319)
+
 ## Context 
 
 Uber is a ride-sharing application that started as a service for people who couldn't afford a taxi. It operates now in about 70 countries and 900 cities, and it generates over $14 billion revenue.
